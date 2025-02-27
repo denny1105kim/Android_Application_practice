@@ -17,6 +17,6 @@ class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         enableEdgeToEdge()
-        setContentView(R.layout.activity_main) // XML 레이아웃 적용
+        setContentView(R.layout.activity_main)
     }
     }
